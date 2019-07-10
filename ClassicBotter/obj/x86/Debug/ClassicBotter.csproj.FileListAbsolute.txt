@@ -1,0 +1,30 @@
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\bin\Debug\ClassicBotter.exe
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\bin\Debug\ClassicBotter.pdb
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.frmMain.resources
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.Properties.Resources.resources
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.exe
+C:\Users\Fredrik\documents\visual studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.pdb
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.csproj.ResolveComReference.cache
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\bin\Debug\ClassicBotter.exe.config
+C:\Users\Fredrik\Documents\Visual Studio 2010\Projects\ClassicBotter\ClassicBotter\obj\x86\Debug\ClassicBotter.Forms.frmRecorder.resources
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\bin\Debug\ClassicBotter.exe.config
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.csproj.ResolveComReference.cache
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.exe
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.pdb
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.frmMain.resources
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.Forms.frmRecorder.resources
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.Properties.Resources.resources
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\obj\x86\Debug\ClassicBotter.csproj.GenerateResource.Cache
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\bin\Debug\ClassicBotter.exe
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\bin\Debug\ClassicBotter.pdb
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\Dragon\Desktop\Classic Botter  Clean Source\ClassicBotter\bin\Debug\AxInterop.MSWinsockLib.dll

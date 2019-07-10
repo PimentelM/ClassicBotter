@@ -1,0 +1,12 @@
+$drag #runebp #runehand
+$wait 1000
+$mphigher 220 f12
+$wait 1000
+$drag #runehand #runebp
+$wait 1000
+$dragsmooth #frombp #tobp
+$wait 1000
+$rclick #rod
+$wait 1000
+$lclick #fish
+$wait 1000

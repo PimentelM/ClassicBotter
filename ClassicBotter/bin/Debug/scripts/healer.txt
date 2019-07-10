@@ -1,0 +1,2 @@
+$hp < 500 $rclick #uh $wait 50 $lclick #self $wait 1000
+$mppc > 95 $key shift+f1

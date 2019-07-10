@@ -1,0 +1,20 @@
+$rclick #food
+$key f12
+$wait 900
+$drag #from #to
+$wait 1500
+$rclick #food
+$key f12
+$wait 900
+$drag #from #to
+$wait 1500
+$rclick #food
+$key f12
+$wait 900
+$drag #from #to
+$wait 1500
+$rclick #food
+$key f12
+$wait 900
+$drag #from #to
+$wait 1500
